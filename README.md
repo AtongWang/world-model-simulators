@@ -74,6 +74,8 @@ If this list helps your research, please ⭐ and cite:
 
 The eight sections below form a capability-based index. A paper appears in every section to which it makes a principal contribution; consequently, entries may occur in more than one section. Within each capability, papers are grouped by the concrete analytical categories used in the survey rather than by technical route. The dedicated survey section provides a topical index of all review papers.
 
+**How to read the counts.** This repository contains exactly **200 unique papers** and **499 C1–C8 capability assignments**. Each paper has one to three principal capability tags, so the section counts represent assignment incidences and should not be summed as a paper total. The **Related Surveys** section re-indexes 16 review papers already included in the same 200-paper corpus; consequently, the README contains 515 table rows while still representing only 200 unique papers.
+
 ## 1 Asset Construction
 
 Controllable creation, composition, and editing of maps, objects, characters, materials, and persistent 3D/4D assets. **38 papers** in the corpus make this a principal contribution.
