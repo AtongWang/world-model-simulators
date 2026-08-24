@@ -11,8 +11,7 @@ A curated list of resources on generative world models as simulators, based on t
 
 ## Contact
 
-If you have suggestions, corrections, or new papers to recommend, feel free to contact us.  
-Email: tongwss@foxmail.com; bisezhaog@163.com
+If you have suggestions, corrections, or new papers to recommend, please open a GitHub issue or submit a pull request.
 
 If this list helps your research, please ⭐ and cite:
 
