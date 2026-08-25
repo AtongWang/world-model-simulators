@@ -1,6 +1,6 @@
 # Awesome-World-Model-Simulators [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources on generative world models as simulators, based on the comprehensive survey "From Generation to Simulation: How Far Are World Models from Being True Simulators?" The corpus contains 200 papers published between 2018 and 2026 and is organized using eight capabilities of traditional simulators.
+A curated list of resources on generative world models as simulators, based on the comprehensive survey ["From Generation to Simulation: How Far Are World Models from Being True Simulators?"](https://arxiv.org/abs/2608.23070) The corpus contains 200 papers published between 2018 and 2026 and is organized using eight capabilities of traditional simulators.
 
 ![Overview of world models as simulators](asset/structure.png "overview")
 
@@ -16,11 +16,14 @@ If you have suggestions, corrections, or new papers to recommend, please open a 
 If this list helps your research, please ⭐ and cite:
 
 ```bibtex
-@article{wang2026generation,
+@misc{wang2026generationsimulationfarworld,
   title={From Generation to Simulation: How Far Are World Models from Being True Simulators?},
-  author={Wang, Tong and Deng, Huan and Yang, Mucheng and He, Yang and Kuang, Xiaohui and Zhao, Gang},
-  journal={Manuscript},
-  year={2026}
+  author={Tong Wang and Huan Deng and Mucheng Yang and Yang He and Xiaohui Kuang and Gang Zhao},
+  year={2026},
+  eprint={2608.23070},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2608.23070}
 }
 ```
 
