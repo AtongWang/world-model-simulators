@@ -54,7 +54,7 @@ If this list helps your research, please ⭐ and cite:
     * [C6 Multi-Task Auxiliary Output (32)](#c6-multi-task-auxiliary-output-32)
     * [C6 Deriving Structured State from Physical Simulation (6)](#c6-deriving-structured-state-from-physical-simulation-6)
     * [C6 Latent Representation as Alternative Feedback (4)](#c6-latent-representation-as-alternative-feedback-4)
-    * [C6 The Missing Ground-Truth Feedback (3)](#c6-the-missing-ground-truth-feedback-3)
+    * [C6 State-Interface Evaluation and Gaps (3)](#c6-state-interface-evaluation-and-gaps-3)
 * [7 Diversity](#7-diversity)
     * [C7 Scale-Driven Diversity (28)](#c7-scale-driven-diversity-28)
     * [C7 Composition-Driven Diversity (7)](#c7-composition-driven-diversity-7)
@@ -795,7 +795,7 @@ Readable simulator feedback beyond RGB, including sensors, task signals, structu
 | [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603) | ICLR 2020 | — |
 | [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/pdf/1811.04551) | ICML 2019 | — |
 
-### C6 The Missing Ground-Truth Feedback (3)
+### C6 State-Interface Evaluation and Gaps (3)
 
 | Title | Pub. & Date | Code/Project URL |
 | --- | --- | --- |
