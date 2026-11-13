@@ -30,7 +30,7 @@ If this list helps your research, please ⭐ and cite:
 ## Table of Contents 🍃
 
 * [Roadmap of world models as simulators](#roadmap-of-world-models-as-simulators)
-* [Master List: 200 Unique Papers](#master-list-200-unique-papers)
+* [Master List: 201 Unique Papers](#master-list-201-unique-papers)
 * [1 Asset Construction](#1-asset-construction)
     * [C1 Assets as Conditional Input (6)](#c1-assets-as-conditional-input-6)
     * [C1 Asset Generation by World Models (32)](#c1-asset-generation-by-world-models-32)
@@ -39,10 +39,10 @@ If this list helps your research, please ⭐ and cite:
     * [C2 Soft Constraints (26)](#c2-soft-constraints-26)
     * [C2 Physical Evaluation (4)](#c2-physical-evaluation-4)
 * [3 Interaction](#3-interaction)
-    * [C3 The Object of Interaction (51)](#c3-the-object-of-interaction-51)
+    * [C3 The Object of Interaction (52)](#c3-the-object-of-interaction-52)
     * [C3 The Depth of Interaction (29)](#c3-the-depth-of-interaction-29)
 * [4 Controllability](#4-controllability)
-    * [C4 Explicit Control (89)](#c4-explicit-control-89)
+    * [C4 Explicit Control (90)](#c4-explicit-control-90)
     * [C4 Language and Multimodal Control (24)](#c4-language-and-multimodal-control-24)
     * [C4 Latent Actions (12)](#c4-latent-actions-12)
 * [5 Stability](#5-stability)
@@ -78,9 +78,9 @@ If this list helps your research, please ⭐ and cite:
 
 The master list records each paper exactly once, while the eight capability sections form a reverse index. A paper appears in every capability section to which it makes a principal contribution; consequently, entries may occur in more than one reverse-index section. Within each capability, papers are grouped by the concrete analytical categories used in the survey rather than by technical route. The dedicated survey section provides a topical index of all review papers.
 
-**How to read the counts.** This repository contains exactly **200 unique papers** and **499 C1–C8 capability assignments**. Each paper has one to three principal capability tags, so the capability-section counts represent assignment incidences and should not be summed as a paper total. The **Surveys** section additionally re-indexes 16 review papers already included in the same corpus. The master list is therefore the authoritative view for the 200-paper total; the capability and survey sections are navigation indexes.
+**How to read the counts.** This repository contains exactly **201 unique papers** and **501 C1–C8 capability assignments**. Each paper has one to three principal capability tags, so the capability-section counts represent assignment incidences and should not be summed as a paper total. The **Surveys** section additionally re-indexes 16 review papers already included in the same corpus. The master list is therefore the authoritative view for the 201-paper total; the capability and survey sections are navigation indexes.
 
-## Master List: 200 Unique Papers
+## Master List: 201 Unique Papers
 
 Each paper appears exactly once in this table, ordered by publication year (newest first) and then by title. Capability tags link to the corresponding reverse-index sections below.
 
@@ -106,6 +106,7 @@ Each paper appears exactly once in this table, ordered by publication year (newe
 | [Factored Latent Action World Models](https://arxiv.org/pdf/2602.16229) | arXiv 2026 | [C3](#3-interaction) · [C4](#4-controllability) | [![Star](https://img.shields.io/github/stars/wangzizhao/flam.svg?style=social&label=Star)](https://github.com/wangzizhao/flam) |
 | [Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](https://arxiv.org/pdf/2602.01801) | arXiv 2026 | [C3](#3-interaction) · [C5](#5-stability) | — |
 | [Fine-flow Distilling Coarse-flow Video Generation for Long-Term Driving World Model](https://doi.org/10.1609/aaai.v40i31.39860) | AAAI 2026 | [C4](#4-controllability) · [C5](#5-stability) | [![Star](https://img.shields.io/github/stars/Wang-Xiaodong1899/Long-DWM.svg?style=social&label=Star)](https://github.com/Wang-Xiaodong1899/Long-DWM) |
+| [FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation](https://arxiv.org/pdf/2610.34564) | NeurIPS 2026 | [C3](#3-interaction) · [C4](#4-controllability) | [![Star](https://img.shields.io/github/stars/wangyz1999/flockworld.svg?style=social&label=Star)](https://github.com/wangyz1999/flockworld) |
 | [FlowDreamer: A RGB-D World Model With Flow-Based Motion Representations for Robot Manipulation](https://doi.org/10.1109/lra.2026.3653273) | ICRA 2026 | [C4](#4-controllability) · [C6](#6-state-feedback) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sharinka0715.github.io/FlowDreamer/) |
 | [Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion](https://arxiv.org/pdf/2606.18250) | arXiv 2026 | [C1](#1-asset-construction) · [C5](#5-stability) · [C7](#7-diversity) | [![Website](https://img.shields.io/badge/Website-9cf)](https://fr3d-wm.github.io) |
 | [GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://arxiv.org/pdf/2604.07429) | arXiv 2026 | [C3](#3-interaction) · [C8](#8-evaluation-metrics) | [![Website](https://img.shields.io/badge/Website-9cf)](https://gameworld-bench.github.io) |
@@ -394,9 +395,9 @@ Faithful modeling of motion, collision, contact, deformation, and other physical
 
 ## 3 Interaction
 
-The breadth of entities that can interact and the depth, latency, and closed-loop nature of interaction. **80 papers** in the corpus make this a principal contribution.
+The breadth of entities that can interact and the depth, latency, and closed-loop nature of interaction. **81 papers** in the corpus make this a principal contribution.
 
-### C3 The Object of Interaction (51)
+### C3 The Object of Interaction (52)
 
 | Title | Pub. & Date | Code/Project URL |
 | --- | --- | --- |
@@ -416,6 +417,7 @@ The breadth of entities that can interact and the depth, latency, and closed-loo
 | [MANIPDREAMER: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance](https://doi.org/10.1109/icassp55912.2026.11460526) | ICASSP 2026 | [![Website](https://img.shields.io/badge/Website-9cf)](https://myendless1.github.io/ManipDreamer/) |
 | [Lyra 2.0: Explorable Generative 3D Worlds](https://arxiv.org/pdf/2604.13036) | arXiv 2026 | [![Star](https://img.shields.io/github/stars/nv-tlabs/lyra.svg?style=social&label=Star)](https://github.com/nv-tlabs/lyra) |
 | [Learning Latent Action World Models In The Wild](https://arxiv.org/pdf/2601.05230) | arXiv 2026 | — |
+| [FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation](https://arxiv.org/pdf/2610.34564) | NeurIPS 2026 | [![Star](https://img.shields.io/github/stars/wangyz1999/flockworld.svg?style=social&label=Star)](https://github.com/wangyz1999/flockworld) |
 | [Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](https://arxiv.org/pdf/2602.01801) | arXiv 2026 | — |
 | [Factored Latent Action World Models](https://arxiv.org/pdf/2602.16229) | arXiv 2026 | [![Star](https://img.shields.io/github/stars/wangzizhao/flam.svg?style=social&label=Star)](https://github.com/wangzizhao/flam) |
 | [BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks](https://arxiv.org/pdf/2602.03793) | arXiv 2026 | [![Website](https://img.shields.io/badge/Website-9cf)](https://BridgeV2W.github.io) |
@@ -488,9 +490,9 @@ The breadth of entities that can interact and the depth, latency, and closed-loo
 
 ## 4 Controllability
 
-How precisely users or agents can steer world evolution through explicit, multimodal, or learned actions. **125 papers** in the corpus make this a principal contribution.
+How precisely users or agents can steer world evolution through explicit, multimodal, or learned actions. **126 papers** in the corpus make this a principal contribution.
 
-### C4 Explicit Control (89)
+### C4 Explicit Control (90)
 
 | Title | Pub. & Date | Code/Project URL |
 | --- | --- | --- |
@@ -525,6 +527,7 @@ How precisely users or agents can steer world evolution through explicit, multim
 | [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://arxiv.org/pdf/2605.03941) | arXiv 2026 | [![Website](https://img.shields.io/badge/Website-9cf)](https://iWorld-Bench.com) |
 | [Grounding World Simulation Models in a Real-World Metropolis](https://arxiv.org/pdf/2603.15583) | arXiv 2026 | — |
 | [FlowDreamer: A RGB-D World Model With Flow-Based Motion Representations for Robot Manipulation](https://doi.org/10.1109/lra.2026.3653273) | ICRA 2026 | [![Website](https://img.shields.io/badge/Website-9cf)](https://sharinka0715.github.io/FlowDreamer/) |
+| [FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation](https://arxiv.org/pdf/2610.34564) | NeurIPS 2026 | [![Star](https://img.shields.io/github/stars/wangyz1999/flockworld.svg?style=social&label=Star)](https://github.com/wangyz1999/flockworld) |
 | [Fine-flow Distilling Coarse-flow Video Generation for Long-Term Driving World Model](https://doi.org/10.1609/aaai.v40i31.39860) | AAAI 2026 | [![Star](https://img.shields.io/github/stars/Wang-Xiaodong1899/Long-DWM.svg?style=social&label=Star)](https://github.com/Wang-Xiaodong1899/Long-DWM) |
 | [DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving](https://arxiv.org/pdf/2601.01528) | arXiv 2026 | [![Website](https://img.shields.io/badge/Website-9cf)](https://drivinggen-bench.github.io/) |
 | [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/pdf/2602.06949) | arXiv 2026 | [![Star](https://img.shields.io/github/stars/NVIDIA/DreamDojo.svg?style=social&label=Star)](https://github.com/NVIDIA/DreamDojo) |
